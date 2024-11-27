@@ -8,6 +8,5 @@
 Добавил возможность добавления товара в избранное
 Страница профиля
 Список избранных товаров
-![studio64_MB8xkXRrsC.png](studio64_MB8xkXRrsC.png)
 ![studio64_vDSiNDjaSp.png](studio64_vDSiNDjaSp.png)
 ![studio64_ZgTOkU09ly.png](studio64_ZgTOkU09ly.png)
